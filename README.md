@@ -17,8 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] List anything else that you can get done to improve the app functionality!
-May be adding the funders name under the top funded game and runner-up would be also good.
+* [x] May be adding the funders name under the top funded game and runner-up would be also good.
 
 ## Video Walkthrough
 
@@ -28,7 +27,6 @@ Here's a walkthrough of implemented features:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 The most challenging part was understanding how to use reduce() and filter() to manipulate the games data, as well as using destructuring and the spread operator to grab the top two funded games.
 
 ## License
