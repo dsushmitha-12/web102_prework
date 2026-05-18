@@ -24,14 +24,7 @@ May be adding the funders name under the top funded game and runner-up would be 
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/f42983fd86c841539c2c46229c6f62a1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+<https://www.loom.com/share/f42983fd86c841539c2c46229c6f62a1>
 
 ## Notes
 
